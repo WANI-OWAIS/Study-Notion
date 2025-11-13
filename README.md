@@ -4,7 +4,7 @@
 
 ### _Empowering Education Through Technology_
 
-[![Live Demo](https://img.shields.io/badge/demo-online-green.svg)](https://studynotion-frontend.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/demo-online-green.svg)](https://study-notion-zata-lemon.vercel.app/)
 [![MERN Stack](https://img.shields.io/badge/Stack-MERN-blue.svg)](https://github.com/WANI-OWAIS/Study-Notion)
 [![License](https://img.shields.io/badge/license-MIT-orange.svg)](LICENSE)
 
@@ -426,7 +426,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 **Team Project** - Developed by a team of 4 dedicated members
 
-- 🌐 **Live Demo:** [StudyNotion Platform](https://studynotion-frontend.vercel.app/)
+- 🌐 **Live Demo:** [StudyNotion Platform](https://study-notion-zata-lemon.vercel.app/)
 - 💼 **GitHub Repository:** [@WANI-OWAIS/Study-Notion](https://github.com/WANI-OWAIS/Study-Notion)
 - 👥 **Team Size:** 4 Members
 - 📧 **Contact:** Open an issue on GitHub for support
